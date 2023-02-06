@@ -1,2 +1,2 @@
 # test_odoo_sh
-test 
+test 2
